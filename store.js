@@ -40,11 +40,11 @@ global.img7 = 'https://telegra.ph/file/951275803faa754aff010.jpg'
 global.sityImg = [img, img1, img2, img3, img4, img5, img6, img7]
 
 //Enlaces
-global.yt = 'https://instagram.com/jxtxn17'
-global.ig = 'https://instagram.com/jxtxn17'
-global.md = 'https://instagram.com/jxtxn17'
-global.paypal = 'https://instagram.com/jxtxn17'
-global.git = 'https://instagram.com/jxtxn17'
+global.yt = 'https://instagram.com/vsebas.y'
+global.ig = 'https://instagram.com/vsebas.y'
+global.md = 'https://instagram.com/vsebas.y'
+global.paypal = 'https://instagram.com/vsebas.y'
+global.git = 'https://instagram.com/vsebas.y'
 global.nn = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Grupo ofc
 global.Curiosity = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Curiosity OFC
 global.hachiko = 'https://chat.whatsapp.com/IcZogjGdSg0ArlfKLRS6RD' //Hachiko OFC
