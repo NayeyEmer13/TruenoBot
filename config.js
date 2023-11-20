@@ -27,8 +27,8 @@ import { watchFile, unwatchFile } from 'fs'
  global.mods = [] 
  global.prems = []
 
-global.packname = 'ᥫ᭡𝙏𝙪𝙧𝙗𝙤𝘽𝙤𝙩-𝙈𝘿ꨄ'
-global.author = ' T\n U\n R\n  B\n O\n '
+global.packname = 'ᥫ᭡TruenlBotꨄ'
+global.author = ' S\n e\n b\n  a\n s\n '
 global.wm = '𓆩𝐓𝐮𝐫𝐛𝐨𝐁𝐨𝐭-𝐌𝐃𓆪'
 global.wm2 = '✦𝗧𝘂𝗿𝗯𝗼-𝗯𝗼𝘁-𝗠𝗗✦'
 global.jxtxn = 'Jxtxn'
